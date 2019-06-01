@@ -1,0 +1,15 @@
+.colorcaja{
+	background-color: #FF0202;
+	margin: 15px;
+	padding: 15px;
+	border: 5px solid #800D0D;
+	border-radius: 20px;
+	font-style: 
+}
+body{
+	background-image: url(imagenes/avengers-infinity-war-official-poster-2018-4o.jpg) ;
+}
+li{
+	color: #FFFFFF;
+	list-style-type: decimal-leading-zero;
+}
